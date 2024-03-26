@@ -7,7 +7,7 @@
 
 	For commercial sites, themes, projects, and applications,
 	keep your source code private/proprietary by purchasing
-	a commercial license from https://scrollrevealjs.org/
+	a commercial license from https://scrollrevealjs.org/ 
 */
 var ScrollReveal = (function () {
     "use strict";
